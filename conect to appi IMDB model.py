@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-api_key = '8089d9a1cfb09eb05aee18af13e4d5f8'
+##miejsce na klucz nadany przez administratora api_key = 'xxxx' 
 
 url = 'https://api.themoviedb.org/3/discover/movie'
 
